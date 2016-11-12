@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/canaandavis/attendance-app-starter.git"
+    "url": "git+https://github.com/Giovanna8/attendance-app-starter"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/canaandavis/attendance-app-starter/issues"
+    "url": "https://github.com/Giovanna8/attendance-app-starter/issues"
   },
-  "homepage": "https://github.com/canaandavis/attendance-app-starter#readme",
+  "homepage": "https://github.com/Giovanna8/attendance-app-starter#readme",
   "devDependencies": {
     "nodemon": "^1.11.0"
   }

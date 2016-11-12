@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>We Are Keeping Attendance!</title>
+</head>
+
+<body>
+  <form method="post" action="/names">
+    <input type="text" name="name">
+    <input type="submit" value="Submit">
+  </form>
+
+  <ul>
+    <% names.forEach(function(name){ %>
+      <li><%= names %> </li>
+    <%})>
+  </ul>
+
+</body>
+</html>
