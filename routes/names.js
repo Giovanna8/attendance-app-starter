@@ -3,7 +3,7 @@ const router = express.Router();
 const names = ['1', '2', '3'];
 
 router.get('/', function(req, res, next) {
-  res.render('names.ejs', {names: name});
+  res.render('names.ejs', { names: names });
 });
 
 router.post('/', function(req, res, next) {
