@@ -1,2 +1,3 @@
 # attendance-app-starter
-A starter app for the ACA full stack attendance project
+A starter app for the ACA full stack
+Attendance App Project

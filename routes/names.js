@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const names = ['1', '2', '3'];
+const names = ['Dylan', 'Cash', 'Marley'];
 
 router.get('/', function(req, res, next) {
   res.render('names.ejs', { names: names });
